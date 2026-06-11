@@ -42,7 +42,7 @@
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://flexfengfeng.github.io/dsai-m3-l03-learner/) |
+| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.3-Supervised-Learning/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) — Core sections only |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section for going deeper |
 
@@ -56,7 +56,7 @@ This lesson follows a three-phase flow. Work through the phases in order.
 
 ---
 
-### Phase 1 — Before class: self-study (~25 min)
+### Phase 1 — Before class: self-study (~30 min)
 
 **Goal:** *Open the dataset*. See the mess. Form a question.
 
@@ -124,12 +124,12 @@ Optional material lives in [`notebooks/optional_extensions.ipynb`](./notebooks/o
 ```
 README.md                              ← You are here
 setup.md                               ← One-time environment setup
-pre-class.md                           ← Phase 1: 75-min self-study guide
+pre-class.md                           ← Phase 1: 30-min self-study guide
 lesson.md                              ← Short reference: overview, takeaways, threshold checklist, review Q&A, course map
 reference.md                           ← Phase 3: Further reading + glossary (~20 terms)
 environment.yml                        ← Conda environment spec
 docs/
-  index.html                           ← Interactive key-concepts walkthrough (served at https://flexfengfeng.github.io/dsai-m3-l03-learner/ via GitHub Pages)
+  index.html                           ← Interactive key-concepts walkthrough (served at https://su-ntu-ctp.github.io/6m-data-3.3-Supervised-Learning/ via GitHub Pages)
 notebooks/
   data/
     northstar_churn.csv                ← 10,000-row training dataset (loads into all 4 notebooks)
